@@ -33,7 +33,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## Authors
-* [Cr4sHCoD3](https://www.facebook.com/EdwardKevinTorvalds) - Bing Dorker
+* [Cr4sHCoD3](https://www.facebook.com/cr4shcod3.py) - Bing Dorker
 
 ## License
 This project is licensed under the [GPL License](https://choosealicense.com/licenses/gpl-3.0/) - see the LICENSE.md file for details
